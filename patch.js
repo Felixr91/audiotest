@@ -9884,7 +9884,7 @@ function (t, e, n) {
         },
         {
           name: 'File',
-          value: 'assets/Felix_Ramirez_-_Castle_Hill,_Beats_(2013-2017)_-_03_Tomita.mp3',
+          value: 'assets/beat.mp3',
           display: 'file'
         },
         {
