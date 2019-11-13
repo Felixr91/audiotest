@@ -9983,7 +9983,7 @@ function (t, e, n) {
     filenameExports: [
     ],
     filenameAssets: [
-      'Felix_Ramirez_-_Castle_Hill,_Beats_(2013-2017)_-_03_Tomita.mp3'
+      'beat.mp3'
     ],
     hasOldScreenshots: !1,
     hasOldExports: !1,
